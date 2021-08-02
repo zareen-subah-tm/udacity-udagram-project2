@@ -1,1 +1,1 @@
-# udacity-udagram-proejct2
+# udacity-udagram-project2
